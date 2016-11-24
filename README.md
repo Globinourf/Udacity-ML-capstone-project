@@ -1,5 +1,5 @@
 # Udacity-ML-capstone-project
-Cat vs Dog image classifier using TensorFlow
+Cat vs Dog image classifier using TensorFlow.
 <br><br>
 The Udacity Machine Learning Engineer Nanodegree is completed when the capstone project is being completed. The choice of the subject is made by the student. The challenge must use knowledge and competences developed during the chosen specialization, in this case Deep Learning using Google's open source machine learning framework TensorFlow.
 <br><br>

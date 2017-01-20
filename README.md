@@ -5,7 +5,7 @@ This capstone project is the last part of the Udacity Machine Learning Engineer 
 <br><br>
 The aim of this project is to develop an image classifier to distinguish images of cats from images of dogs. It is directly inspired from <a href="https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition">this Kaggle competition</a>. The used dataset is its "train" zip composed of 25000 labeled images of dogs and cats.
 <br><br>
-Please read the report (Report.pdf) to get a deep understanding of the differents steps of the project development.
+<b>Please read the project report (Report.pdf) to get a deep understanding of the differents steps of the project development.</b>
 <br><br>
 The code is composed of two IPython Notebooks. One for data exploration to extract, analyse and prepare the information associated to the images (data-exploration.ipynb). Another for building, training and evaluating the classifier (cat-or-dog-identifier.ipynb).
 <br><br>
